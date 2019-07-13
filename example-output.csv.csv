@@ -1,0 +1,39 @@
+subject_id,topic_id,question_type,question,marks,time_to_spend,difficulty_level,hint,total_answers,correct_answer,answer 1,answer 2,answer 3,answer 4,answer 5
+,,," Let us play ----- chess
+		",,,,,A,4,1,no article,a,an,the
+,,, She wants to become ----- engineer		,,,,,B,4,2,a,an,the,no Article
+,,, He hopes to join ----- university soon		,,,,,A,4,1,a,an,the,no article
+,,, ----- Oranges are grown in Nagpur		,,,,,D,4,4,a,an,the,no article
+,,, This is ----- car I bought yesterday		,,,,,D,4,4,no article,a,an,the
+,,," Let us play ----- chess
+		",,,,,A,4,1,no article,a,an,the
+,,, She wants to become ----- engineer		,,,,,B,4,2,a,an,the,no Article
+,,, He hopes to join ----- university soon		,,,,,A,4,1,a,an,the,no article
+,,, ----- Oranges are grown in Nagpur		,,,,,D,4,4,a,an,the,no article
+,,, This is ----- car I bought yesterday		,,,,,D,4,4,no article,a,an,the
+,,, I want to eat ----- apple		,,,,,C,4,3,no article,a,an,the
+,,, ----- lion is a ferocious animal		,,,,,C,4,3,a,an,the,no article
+,,, The thief was sent to ----- prison		,,,,,D,4,4,a,an,no article,the
+,,, ----- elephant is a vegetarian		,,,,,C,4,3,a,an,the,no article
+,,, Ram was ----- best student in the class		,,,,,C,4,3,a,an,the,no article
+,,, I go to Madurai by ----- Vaigai Express		,,,,,D,4,4,a,an,some,the
+,,," Please give me ----- useful gift
+		",,,,,B,4,2,an,a,no article,the
+,,, Our city will have ----- university soon		,,,,,A,4,1,a,an,the,no article
+,,, ----- unit means a measurement		,,,,,C,4,3,a,an,the,no article
+,,, India will become ----- super power shortly		,,,,,A,4,1,a,an,the,some
+,,, He is ----- European		,,,,,B,4,2,an,a,no article,the
+,,, Are you attending ----- reception today		,,,,,C,4,3,a,an,the,no article
+,,, ----- meat you cooked tasted good		,,,,,C,4,3,a,an,the,no article
+,,, He is ----- honest official.		,,,,,A,4,1,a,an,the,no article
+,,, ----- apples I bought are sour		,,,,,D,4,4,no article,a,an,the
+,,, New York is ----- large city		,,,,,A,4,1,a,an,the,no article
+,,, Taj mahal is built of ----- marble		,,,,,D,4,4,a,an,the,no article
+,,, ----- Pandiyan Express is very popular		,,,,,D,4,4,a,an,no article,the
+,,,  Let us go to a restaurant and have ----- coffee		,,,,,A,4,1,a,an,the,no article
+,,, It is ------ absurd story		,,,,,B,4,2,an,a,the,no article
+,,, ----- Pandiyan Express is very popular		,,,,,D,4,4,a,an,no article,the
+,,, Explosion		,,,,,C,4,3,explorer,exploration,explosive,explorative
+,,, India will become ----- super power shortly		,,,,,A,4,1,a,an,the,some
+,,, Ram was ----- best student in the class		,,,,,C,4,3,a,an,the,no article
+,,, Please give me ----- useful gift		,,,,,B,4,2,an,a,no article,the
