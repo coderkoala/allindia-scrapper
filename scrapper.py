@@ -53,6 +53,7 @@ def append(tail):
             if "google" in td.text:
                 continue
             if(iteration<=len(list_questions)-1):
+                #Temp var for just taking in the data
                 newcsv = list()
                 #subject_id, topic_id, question_id
                 newcsv.append("")
@@ -60,7 +61,8 @@ def append(tail):
                 newcsv.append("")
                 #question
                 newcsv.append(list_questions[iteration])
-                #marks, time_to_spend,difficulty_level, hint
+                #marks, time_to_spend,difficulty_level, hint, explanation
+                newcsv.append("")
                 newcsv.append("")
                 newcsv.append("")
                 newcsv.append("")
@@ -75,33 +77,22 @@ def append(tail):
                     answer_count = answer_count + 1
                     dtext = din.text[3:].strip()
                     temp.append(dtext)
-                #append answer count
-                newcsv.append(answer_count)
-                right_answer = list_right_tuple[iteration]
-                # append option in numerical
-                if right_answer=="A":
-                    newcsv.append("1")
-                if right_answer=="B":
-                    newcsv.append("2")
-                if right_answer=="C":
-                    newcsv.append("3")
-                if right_answer=="D":
-                    newcsv.append("4")                
-                if right_answer=="E":
-                    newcsv.append("5")
-                #append options
-                newcsv.extend(temp)
+                #Praise no consistency for regex of input
+                answer_count = 0
+                d = td.find_all("span", attrs={"class":"option"})
+                for din in d:
+                    answer_count = answer_count + 1
+                    dtext = din.text[3:].strip()
+                    temp.append(dtext)
                 print('[APPEND]: ',newcsv)
-                #finally append it all
                 list_scraped.append(newcsv)
                 iteration = iteration + 1
             else:
                 break
 
-
 list_final = [['subject_id', 'topic_id', 'question_type', 'question', 'marks',
-'time_to_spend','difficulty_level', 'hint', 'total_answers', 'correct_answer', 
-'answer 1', 'answer 2', 'answer 3', 'answer 4', 'answer 5']]
+'time_to_spend','difficulty_level', 'hint', 'explanation', 'total_answers', 'correct_answer', 
+'answer1', 'answer2', 'answer3', 'answer4', 'answer5']]
 #used to collect the objects
 list_scraped = list()
 latter = list()
@@ -123,7 +114,3 @@ with open(input_file_name+ '.csv', 'w') as csvFile:
     csvFile.close()
 
 print('\n\n\n\nSafetly finished writing the scraped data in '+ input_file_name+'.csv')
-'''try:
-    os.system("start excel "+input_file_name+".csv && exit")
-except:
-    pass'''
