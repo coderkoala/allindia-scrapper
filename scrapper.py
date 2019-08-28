@@ -67,16 +67,14 @@ def append(tail):
                 newcsv.append("")
                 newcsv.append("")
                 newcsv.append("")
-                #answer
-                newcsv.append(list_right_tuple[iteration])
                 #Start Answer counter
                 answer_count = 0
                 d = td.find_all("span", attrs={"class":"option"})
                 temp = list()
-                for din in d:
-                    answer_count = answer_count + 1
-                    dtext = din.text[3:].strip()
-                    temp.append(dtext)
+                # for din in d:
+                #     answer_count = answer_count + 1
+                #     dtext = din.text[3:].strip()
+                #     temp.append(dtext)
                 #Praise no consistency for regex of input
                 answer_count = 0
                 d = td.find_all("span", attrs={"class":"option"})
@@ -84,6 +82,21 @@ def append(tail):
                     answer_count = answer_count + 1
                     dtext = din.text[3:].strip()
                     temp.append(dtext)
+                #total_answers
+                newcsv.append(answer_count)
+                #answer
+                right_answer = list_right_tuple[iteration]
+                if right_answer=="A":
+                    newcsv.append("1")
+                if right_answer=="B":
+                    newcsv.append("2")
+                if right_answer=="C":
+                    newcsv.append("3")
+                if right_answer=="D":
+                    newcsv.append("4")                
+                if right_answer=="E":
+                    newcsv.append("5")
+                newcsv.extend(temp)
                 print('[APPEND]: ',newcsv)
                 list_scraped.append(newcsv)
                 iteration = iteration + 1
