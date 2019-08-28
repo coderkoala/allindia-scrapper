@@ -4,6 +4,13 @@ from bs4 import BeautifulSoup
 import os
 import re
 import csv
+import unicodedata
+
+def escape_ansi(line):
+    unicodedata.normalize('NFKD', line).encode('ascii','ignore')
+    ansi_escape =re.compile(r'(\x9B|\x1B\[)[0-?]*[ -\/]*[@-~]')
+    string_to_replace = ansi_escape.sub('', line)
+    return string_to_replace.replace("\\","")
 
 def append(tail):
     #list_questions is for questions
@@ -60,7 +67,7 @@ def append(tail):
                 newcsv.append("")
                 newcsv.append("")
                 #question
-                newcsv.append(list_questions[iteration])
+                newcsv.append(escape_ansi(list_questions[iteration]))
                 #marks, time_to_spend,difficulty_level, hint, explanation
                 newcsv.append("")
                 newcsv.append("")
@@ -81,7 +88,7 @@ def append(tail):
                 for din in d:
                     answer_count = answer_count + 1
                     dtext = din.text[3:].strip()
-                    temp.append(dtext)
+                    temp.append(escape_ansi(dtext))
                 #total_answers
                 newcsv.append(answer_count)
                 #answer
@@ -121,7 +128,7 @@ else:
 list_final.extend(list_scraped)
 
 #write it to an spreadsheet readable format(csv)
-with open(input_file_name+ '.csv', 'w') as csvFile:
+with open(input_file_name+ '.csv', 'w', encoding="utf-8") as csvFile:
     writer = csv.writer(csvFile)
     writer.writerows(list_final)
     csvFile.close()
