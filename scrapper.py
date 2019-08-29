@@ -7,11 +7,22 @@ import csv
 import unicodedata
 
 def escape_ansi(line):
+    if line is None:
+        return '' 
     unicodedata.normalize('NFKD', line).encode('ascii','ignore')
     ansi_escape =re.compile(r'(\x9B|\x1B\[)[0-?]*[ -\/]*[@-~]')
     # string_to_replace = ansi_escape.sub('', line)
     for ch in ['\r','\n', '\t', '&','\\']:
         line = line.replace(ch,'')
+    return line
+
+def pruneSEQ(line):
+    restructure = line
+    for ch in ['<div>', '</div>']:
+        try:
+            restructure = restructure.replace(ch,'')
+        except:
+            return line
     return line
 
 def append(tail):
@@ -31,12 +42,28 @@ def append(tail):
         right = list()
         questions = list()
         ###
-        # Questions
+        # Questions for legacy
         ###
-        #ul class='options_list clearfix'
-        element_question = html.find_all('ul', attrs= {"class":"options_list clearfix"})
+        # element_question = html.find_all('span', attrs= {"class":"options_list clearfix"})
+        # for e in element_question:
+        #     questions.append(e.previousSibling)
+
+        ###
+        # Questions for ANSI
+        ###
+        element_question = html.find_all('span', attrs= {"class":"sno"})
         for e in element_question:
-            questions.append(e.previousSibling)
+            unsatisfied = True
+            temporary_question = str()
+            nextElement = e
+            while unsatisfied:
+                nextElement = nextElement.nextSibling
+                if(nextElement.name == "ul"):
+                    unsatisfied = False
+                    continue
+                temporary_question = temporary_question + escape_ansi(pruneSEQ(nextElement.string))
+            questions.append(temporary_question)
+        #END ANSI WORKAROUND
 
         ###
         # Answers

@@ -1,0 +1,54 @@
+subject_id,topic_id,question_type,question,marks,time_to_spend,difficulty_level,hint,explanation,total_answers,correct_answer,answer1,answer2,answer3,answer4,answer5
+,,, A boy has nine trousers and 12 shirts. In how many different ways can he select a trouser and a shirt?,,,,,,5,4,21,12,9,108,101
+,,, How many three letter words are formed using the letters of the word TIME?,,,,,,5,4,12,20,16,24,30
+,,," Using all the letters of the word ""THURSDAY"", how many different words can be formed?",,,,,,5,2,8,8!,7!,7,6!
+,,," Using all the letters of the word ""NOKIA"", how many words can be formed, which begin with N and end with A?",,,,,,5,2,3,6,24,120,12
+,,, The number of arrangements that can be made with the letters of the word MEADOWS so that the vowels occupy the even places?,,,,,,5,2,720,144,120,36,204
+,,, The number of permutations of the letters of the word 'MESMERISE' is_.,,,,,,5,1,9!/(2!)2 3!,9!/(2!)3 3!,9!/(2!)2 (3!)2,5!/(2!)2 3!,8!/(2!)2 (3!)2
+,,, A committee has 5 men and 6 women. What are the number of ways of selecting 2 men and 3 women from the given committee?,,,,,,5,2,150,200,250,300,None of these
+,,, What are the number of ways to select 3 men and 2 women such that one man and one woman are always selected?,,,,,,5,3,100,60,30,20,None of these
+,,, A committee has 5 men and 6 women. What are the number of ways of selecting a group of eight persons?,,,,,,5,1,165,185,205,225,None of these
+,,," There are 18 stations between Hyderabad and Bangalore. How many second class tickets have to be printed, so that a passenger can travel from any station to any other station?",,,,,,5,5,200,190,95,100,380
+,,, A letter lock consists of three rings each marked with six different letters. The number of distinct unsuccessful attempts to open the lock is at the most -.,,,,,,5,3,216,243,215,729,728
+,,, The number of ways in which six boys and six girls can be seated in a row for a photograph so that no two girls sit together is -.,,,,,,5,2,(6!)2,6! * ⁷P₆,2(6!),6! * 7,None of these
+,,," How many four digit numbers can be formed using the digits {1, 3, 4, 5, 7,9}(repetition of digits is not allowed)?",,,,,,5,1,360,60,300,180,240
+,,," How many four digit even numbers can be formed using the digits {2, 3, 5, 1, 7, 9}",,,,,,5,5,100,360,120,240,60
+,,, In how many ways can six members be selected from a group of ten members?,,,,,,5,2,⁶C₄,¹⁰C₄,¹⁰C₅,¹⁰P₄,¹⁰P₅
+,,," A bag contains nine yellow balls, three white balls and four red balls. In how many ways can two balls be drawn from the bag?",,,,,,5,3,⁹C₂,³C₂,¹⁶C₂,¹²C₂,¹⁴C₂
+,,," In how many ways can three consonants and two vowels be selected from the letters of the word ""TRIANGLE""?",,,,,,5,5,25,13,40,20,30
+,,, In a class there are 20 boys and 25 girls. In how many ways can a boy and a girl be selected?,,,,,,5,2,400,500,600,20,25
+,,, In how many ways can a committee consisting of three men and four women be formed from a group of six men and seven women?,,,,,,5,3,⁶C₄ ⁷C₃,⁶C₃ ⁷C₅,⁶C₃⁷C₄,⁷C₅ ⁶C₄,⁶C₃ ⁷C₃
+,,," A question paper consists of five problems, each problem having three internal choices. In how many ways can a candidate attempt one or more problems?",,,,,,5,3,63,511,1023,15,31
+,,, In how many ways can live boys and three girls sit in a row such that all boys sit together?,,,,,,5,3,4800,5760,2880,15000,1440
+,,," The number of sequences in which 7 players can throw a ball, so that the youngest player may not be the last is -.",,,,,,5,3,4000,2160,4320,5300,4160
+,,," A delegation of 5 members has to be formed from 3 ladies and 5 gentlemen. In how many ways the delegation can be formed, if 2 particular ladies are always included in the delegation?",,,,,,5,1,20,54,42,60,40
+,,, The number of new words that can be formed by rearranging the letters of the word 'ALIVE' is -.,,,,,,5,3,24,23,119,120,None of these
+,,," Find the number of ways of arranging the letters of the word ""MATERIAL"" such that all the vowels in the word are to come together?",,,,,,5,2,720,1440,1860,2160,None of these
+,,," A group consists of 4 men, 6 women and 5 children. In how many ways can 2 men , 3 women and 1 child selected from the given group?",,,,,,5,2,300,600,750,900,None of these
+,,," A group consists of 4 men, 6 women and 5 children. In how many ways can 3 men, 2 women and 3 children selected from the given group?",,,,,,5,3,300,450,600,750,None of these
+,,," A group of 10 representatives is to be selected out of 12 seniors and 10 juniors. In how many different ways can the group be selected, if it should have 5 seniors and 5 juniors?",,,,,,5,3,¹²C₅ * 10,¹²C₇ * 10,¹²C₇ * ¹⁰C₅,12 * ¹⁰C₅,None of these
+,,, A group of 10 representatives is to be selected out of 12 seniors and 10 juniors. In how many different ways can the group be selected if it should have at least one senior?,,,,,,5,4,²²C₁₀,²²C₁₀ + 1,²²C₉ + ¹⁰C₁,²²C₁₀ - 1,None of these
+,,," Six points are marked on a straight line and five points are marked on another line which is parallel to the first line. How many straight lines, including the first two, can be formed with these points?",,,,,,5,5,29,33,55,30,32
+,,," A question paper had 10 questions. Each question could only be answered as true(T) of False(F).      Each candidate answered all the questions, Yet no two candidates wrote the answers in an identical sequence. How many different sequences of answers are possible?",,,,,,4,4,20,40,512,1024
+,,," Groups each containing 3 boys are to be formed out of 5 boys. A, B, C, D and E such that no group can contain both C and D together. What is the maximum number of such different groups?",,,,,,4,3,5,6,7,8
+,,," In how many different ways can six players be arranged in a line such that two of them, Ajeet and Mukherjee are never together?",,,,,,4,4,120,240,360,480
+,,," In a question paper, there are four multiple choice type questions, each question has five choices with only one choice for it’s correct answer. What is the total number of ways in which a candidate will not get all the four answers correct?",,,,,,4,3,19,120,624,1024
+,,, A mixed doubles tennis game is to be played two teams(each consists of one male and one female) There are four married couples. No team is to consist a husband and his wife. What is the maximum number of games that can be played?,,,,,,4,4,12,48,36,42
+,,, Three dice (each having six faces with each face having one number from 1 or 6) are ralled. What is the number of possible outcomes  such that atleast one dice shows the number 2?,,,,,,4,3,36,81,91,116
+,,," Three flags each of different colours are available for a military exercise, Using these flags different codes can be generated by waving I. Single flag of different colours II. Any two flags in a different sequence of colours. III. three flags in a different sequence of colours. The maximum number of codes that can be generated is. ",,,,,,4,3,6,9,15,18
+,,," 2 men and 1 woman board a bus of which 5 seats are vacant, one of these 5 seats is reserved for ladies. A woman may or may not sit on the seat reserved for ladies, In how many different ways can the five seats be occupied by these passengers?",,,,,,4,2,15,36,48,60
+,,," A student has to opt for 2 subjects out of 5 subjects for a course. Namely commerce, economics, statistics, mathematics  1 and Mathematics 2, Mathematics 2 can be offered only if mathematics  1 has also opted. The number of different combinations of two subjects which can be opted is",,,,,,4,3,5,6,7,18
+,,, A selection is to be made for one post of principal and two posts of vice-principal amongst the six candidates called for the interview only two are eligible for the post of principal while they all are eligible for the post of vice-principal. The number of possible combinations of selectees is,,,,,,4,4,4,12,18,None of these
+,,, A person ordered 5 pairs of black socks and some pairs of brown socks. The price of a black pair was thrice that of a brown pair while preparing the bill the bill clerk inter-changed the number of black and brown pairs by mistake which increased the bill by 100% what was the number of pair of brown socks in the original order?,,,,,,4,4,10,15,20,25
+,,," There are 5 tasks and 5 persons, Task 1 cannot be assigned to either person 1 or person 2, Task 2 must be assigned to either person-3 or person-4 every person is to be assigned one task, In how many ways can the assignment be done?",,,,,,4,3,6,12,24,144
+,,," A two number committee comprising of one male and the female number is to be constituted out of five male and 3 females. Amongst the females, Ms. A refused to be number committee in which Mr.B is taken as the number of how many different ways can the committee be constituted?",,,,,,4,3,11,30,14,20
+,,," In a society, it is customary for friends of the same sex to hug and for friends of opposite sex to shake hands when they meet. A group of friends met in a party and there were 24 hand shakers. Which one among the following numbers indicates the possible number of hugs?",,,,,,4,3,39,30,21,20
+,,," Twelve people from a club, by picking lots. One of them will host a dinner for all once in a month. The number of dinners a particular member has to host in one year is ",,,,,,4,4,One,Zero,Three,Cannot be determined
+,,," There are two identical red, two identical black, and two identical white balls.In how many different ways can the balls be placed in the cells (Each cell to contain one ball) shown above such that balls of the same colour do not occupy any two consecutive cells?",,,,,,4,3,15,18,24,30
+,,," In how many different ways can four books A, B, C and D be arranged one above another in a vertical order such that the books A and B are never in continuous position?",,,,,,4,2,9,12,14,18
+,,," Amit has five friends, 3 girls and 2 boys. Amit’s  wife also has 5 friends, 3 boys, and 2 girls. In how many maximum numbers of different ways can their invite 2 boys and 2 girls such that two of them are Amit’s friends and two are his wife’s?",,,,,,4,3,24,38,46,58
+,,, In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?,,,,,,4,1,63,90,126,45
+,,," How many 4-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?",,,,,,4,3,40,400,5040,2520
+,,, In how many different ways can the letters of the word 'MATHEMATICS' be arranged so that the vowels always come together?,,,,,,4,3,10080,4989600,120960,None of these
+,,, In how many different ways can the letters of the word 'OPTICAL' be arranged so that the vowels always come together?,,,,,,4,2,120,720,4320,2160
+,,," There are 30 people in a group. If all shake hands with one another , how many handshakes are possible? ",,,,,,4,2,870,435,30!,29! + 1
