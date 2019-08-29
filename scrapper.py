@@ -9,8 +9,10 @@ import unicodedata
 def escape_ansi(line):
     unicodedata.normalize('NFKD', line).encode('ascii','ignore')
     ansi_escape =re.compile(r'(\x9B|\x1B\[)[0-?]*[ -\/]*[@-~]')
-    string_to_replace = ansi_escape.sub('', line)
-    return string_to_replace.replace("\\","")
+    # string_to_replace = ansi_escape.sub('', line)
+    for ch in ['\r','\n', '\t', '&','\\']:
+        line = line.replace(ch,'')
+    return line
 
 def append(tail):
     #list_questions is for questions
@@ -35,7 +37,7 @@ def append(tail):
         element_question = html.find_all('ul', attrs= {"class":"options_list clearfix"})
         for e in element_question:
             questions.append(e.previousSibling)
-        
+
         ###
         # Answers
         ###
@@ -118,13 +120,9 @@ list_scraped = list()
 latter = list()
 input_file_name = input("[NAME] Output to save: ")
 index = input("[PASTE] url to crawl: ")
-inquiry = input("[RECURSION]Try automatic child pages? [y/n]: ")
-if inquiry == "y" or inquiry == "Y":
-    latter = map(str,input("[/ 1 2 3]Please enter the sub urls to crawl: \n").split())
-    for ip in latter:
-        append(index + ip)
-else:
-    append(index)
+latter = map(str,input("[/ 1 2 3]Please enter the sub urls to crawl: \n").split())
+for ip in latter:
+    append(index + ip)
 list_final.extend(list_scraped)
 
 #write it to an spreadsheet readable format(csv)

@@ -1,0 +1,61 @@
+subject_id,topic_id,question_type,question,marks,time_to_spend,difficulty_level,hint,explanation,total_answers,correct_answer,answer1,answer2,answer3,answer4,answer5
+,,, ,,,,,,5,3,A and B,Only A,A and C,Only C,All the three
+,,, ,,,,,,5,3,Only A,A and C,B and C,A and B,B and C
+,,, ,,,,,,5,5,A and B,A and C,B and C,Only A,Only C
+,,, ,,,,,,5,2,Only A,Only B,Only C,A and B,None of these
+,,, ,,,,,,5,1,Only A,A and B,Only B,All the three,None of these
+,,, ,,,,,,5,3,Only B,Only A,A and B,B and C,All the three
+,,, ,,,,,,5,5,Only A,Only C,A and B,A and C,All the three
+,,, ,,,,,,5,3,Only B,Only A,A and B,Only C,None of these
+,,, ,,,,,,5,1,A and B,B and C,Only A,Only B,All the three
+,,, ,,,,,,5,4,A and B,Only B,Only C,Only A,B and C
+,,, ,,,,,,5,2,Only A,A and B,B and C,Only B,All the three
+,,, ,,,,,,5,3,A and B,B and C,A and C,Only A,All the three
+,,, ,,,,,,5,1,Only A,A and B,A and C,Only C,None of these
+,,, ,,,,,,5,2,Only B,A and B,Only A,B and C,All the three
+,,, ,,,,,,5,5,A and C,Only B,A and B,Only A,All the three
+,,, ,,,,,,5,1,Only B,A and C,A and B,Only A,None of these
+,,, ,,,,,,5,4,Only A,Only B,A and B,B and C,A and C
+,,, ,,,,,,5,3,A and B,Only B,B and C,Only C,All the three
+,,, ,,,,,,5,5,Only B,B and C,Only A,A and B,All the three
+,,, ,,,,,,5,4,Only A,Only B,Only C,A and B,B and C
+,,, ,,,,,,5,3,A and C,B and C,A and B,Only A,All the three
+,,, ,,,,,,5,2,Only A,A and B,Only B,B and C,All the three
+,,, ,,,,,,5,4,Only A,A and B,Only B,B and C,Only C
+,,, ,,,,,,5,3,A and C,Only B,A and B,Only C,All the three
+,,, ,,,,,,5,5,Only A,A and B,Only C,B and C,A and C
+,,, ,,,,,,5,3,Only A,Only B,Only C,A and B,B and C
+,,, ,,,,,,5,3,A and B,B and C,A and C,All the three,None of these
+,,, ,,,,,,5,4,A and B,Only A,B and C,Only B,None of these
+,,, ,,,,,,5,5,Only B,B and C,Only A,A and C,All the three
+,,, ,,,,,,5,4,Only A,Only B,A and B,All the three,A and C
+,,, ,,,,,,5,3,Only B,Only A,A and C,B and C,All the three
+,,, ,,,,,,5,2,Only A,A and B,A and B,B and C,Only C
+,,, ,,,,,,5,3,Only B,Only A,A and B,B and C,Only C
+,,, ,,,,,,5,3,Only A,A and B,B and C,A and C,All the three
+,,, ,,,,,,5,5,A and B,Only B,Only A,A and C,Only C
+,,, ,,,,,,5,3,Only C,Only B,A and B,B and C,All the three
+,,, ,,,,,,5,3,A and B,Only C,A and C,Only A,Only B
+,,, ,,,,,,5,4,Only A,Only B,Only C,A and C,B and C
+,,, ,,,,,,5,2,A and C,B and C,Only A,A and B,Only B
+,,, ,,,,,,5,5,A and B,B and C,A and C,None of these,All the three
+,,, ,,,,,,5,2,Only A,A and B,A and C,All the three,None of these
+,,, ,,,,,,5,1,Only A,Only B,A and C,A and B,None of these
+,,, ,,,,,,5,2,Only A,A and B,A and C,Only C,All the three
+,,, ,,,,,,5,3,Only C,Only B,A and C,A and B,All the three
+,,, ,,,,,,5,4,Only A,A and B,Only B,A and C,B and C
+,,, ,,,,,,5,1,A and B,B and C,A and C,Only C,All the three
+,,, ,,,,,,5,2,Only A,Only B,Only C,A and B,None of these.
+,,, ,,,,,,5,5,Only A,Only B,A and B,B and C,All the three
+,,, ,,,,,,5,3,Only A,Only B,Only C,B and C,None of these.
+,,, ,,,,,,5,3,A and C,Only A,A and B,B and C,All the three
+,,, ,,,,,,5,1,Only A,Only B,Only C,A and B,B and C
+,,, ,,,,,,5,4,Only A,A and B,B and C,Only C,None of these
+,,, ,,,,,,5,1,A and B,Only A,B and C,Only B,All the three
+,,, ,,,,,,5,5,Only A,Only B,Only C,A and C,All the three
+,,, ,,,,,,5,4,Only A,Only B,A and B,B and C,None of these.
+,,, ,,,,,,5,2,Only A,Only B,Only C,A and B,All the three
+,,, ,,,,,,5,3,Only A,Only B,A and B,Only C,B and C
+,,, ,,,,,,5,5,Only A,Only B,Only C,None of these,All the three
+,,, ,,,,,,5,3,A and B,Only C,A and C,Only A,None of these
+,,, ,,,,,,5,4,Only B,B and C,Only C,A and B,All the three
