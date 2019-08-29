@@ -7,10 +7,23 @@ import csv
 import unicodedata
 
 def escape_ansi(line):
+    if line is None:
+        return '' 
     unicodedata.normalize('NFKD', line).encode('ascii','ignore')
     ansi_escape =re.compile(r'(\x9B|\x1B\[)[0-?]*[ -\/]*[@-~]')
-    string_to_replace = ansi_escape.sub('', line)
-    return string_to_replace.replace("\\","")
+    # string_to_replace = ansi_escape.sub('', line)
+    for ch in ['\r','\n', '\t', '&','\\']:
+        line = line.replace(ch,'')
+    return line
+
+def pruneSEQ(line):
+    restructure = line
+    for ch in ['<div>', '</div>']:
+        try:
+            restructure = restructure.replace(ch,'')
+        except:
+            return line
+    return line
 
 def append(tail):
     #list_questions is for questions
@@ -29,13 +42,29 @@ def append(tail):
         right = list()
         questions = list()
         ###
-        # Questions
+        # Questions for legacy
         ###
-        #ul class='options_list clearfix'
-        element_question = html.find_all('ul', attrs= {"class":"options_list clearfix"})
+        # element_question = html.find_all('span', attrs= {"class":"options_list clearfix"})
+        # for e in element_question:
+        #     questions.append(e.previousSibling)
+
+        ###
+        # Questions for ANSI
+        ###
+        element_question = html.find_all('span', attrs= {"class":"sno"})
         for e in element_question:
-            questions.append(e.previousSibling)
-        
+            unsatisfied = True
+            temporary_question = str()
+            nextElement = e
+            while unsatisfied:
+                nextElement = nextElement.nextSibling
+                if(nextElement.name == "ul"):
+                    unsatisfied = False
+                    continue
+                temporary_question = temporary_question + escape_ansi(pruneSEQ(nextElement.string))
+            questions.append(temporary_question)
+        #END ANSI WORKAROUND
+
         ###
         # Answers
         ###
@@ -118,13 +147,9 @@ list_scraped = list()
 latter = list()
 input_file_name = input("[NAME] Output to save: ")
 index = input("[PASTE] url to crawl: ")
-inquiry = input("[RECURSION]Try automatic child pages? [y/n]: ")
-if inquiry == "y" or inquiry == "Y":
-    latter = map(str,input("[/ 1 2 3]Please enter the sub urls to crawl: \n").split())
-    for ip in latter:
-        append(index + ip)
-else:
-    append(index)
+latter = map(str,input("[/ 1 2 3]Please enter the sub urls to crawl: \n").split())
+for ip in latter:
+    append(index + ip)
 list_final.extend(list_scraped)
 
 #write it to an spreadsheet readable format(csv)

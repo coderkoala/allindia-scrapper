@@ -1,0 +1,52 @@
+subject_id,topic_id,question_type,question,marks,time_to_spend,difficulty_level,hint,explanation,total_answers,correct_answer,answer1,answer2,answer3,answer4,answer5
+,,," QPO, NML, KJI, _____, EDC",,,,,,4,1,HGF,CAB,JKL,GHI
+,,," JAK, KBL, LCM, MDN, _____",,,,,,4,2,OEP,NEO,MEN,PFQ
+,,," ELFA, GLHA, ILJA, _____, MLNA",,,,,,4,4,OLPA,KLMA,LLMA,KLLA
+,,," B2CD,  _____ BCD4, B5CD, BC6D",,,,,,4,2,B2C2D,BC3D,B2C3D,BCD7
+,,," P5QR, P4QS, P3QT, _____, PQV",,,,,,4,3,PQW,PQV2,P2QU,PQ3U
+,,," CMM, EOO, GQQ,  _____ , KUU",,,,,,4,3,GRR,GSS,ISS,ITT
+,,," QAR, RAS, SAT, TAU, _____",,,,,,4,1,UAV,UAT,TAS,TAT
+,,," DEF, DEF2, DE2F2, _____, D2E2F3 ",,,,,,4,4,DEF3,D3EF3,D2E3F,D2E2F2
+,,," SCD, TEF, UGH, ____, WKL",,,,,,4,3,CMN,UJI,VIJ,IJT
+,,," FAG, GAF, HAI, IAH, ____",,,,,,4,1,JAK,HAL,JAI,HAK
+,,," BCB, DED, FGF, HIH, ___",,,,,,4,1,JKJ,HJH,IJI,JHJ
+,,," ZA5, Y4B, XC6, W3D _____",,,,,,4,4,E7V,V2E,VE5,VE7
+,,," E, A __, O, I ",,,,,,5,2,E,U,X,V,Z
+,,," D, F, G, H, J, K, L, M, N, __",,,,,,5,3,O,Q,P,R,T
+,,," E, J, O, T, Y, __",,,,,,5,1,D,Z,C,E,G
+,,," G, J, N, Q, U, __",,,,,,5,2,W,X,Y,Z,B
+,,," R, K, F, C, __",,,,,,5,4,Z,Y,W,A,D
+,,," BY, CX, EV, GT, KP, __",,,,,,5,2,JQ,MN,PK,LO,RV
+,,," AI, EO, IU, __, UE",,,,,,5,4,OU,OI,UA,OA,OE
+,,," AP, BQ, CR, DS, __",,,,,,5,1,ET,EU,TE,EV,IV
+,,," QN, RP, TS, WW, __, FH",,,,,,5,3,AC,XB,AB,YC,CE
+,,," EA, IE, OK, SO, YU, __",,,,,,5,5,WX,WB,YD,ZX,CY
+,,," KPD, LOE, MNF, NMG, __",,,,,,5,2,ONF,OLH,MLH,MNH,NLH
+,,," BEP, CIQ, DOR, FUS, GAT, __",,,,,,5,1,HEV,HIT,IET,IEU,HIV
+,,," GKF, IPC, LTY, PWT, UYN, __",,,,,,5,4,ABZ,XBX,XAH,AZG,YBG
+,,," QLR, JPD, RNU, GNC, SPX, DLB, __",,,,,,5,5,ARE,AJA,BTU,KJE,TRA
+,,," PKC, SPF, XSK, AXN, __, IFV",,,,,,5,3,CAQ,FCS,FAS,CFS,EGR
+,,," GTB, CYV, YDP, __, QND",,,,,,5,2,DIV,UIJ,DDV,UVV,VJK
+,,," JTU, __, UCF, BFM, JHU",,,,,,5,1,OYZ,JCZ,OCF,JCZ,MZY
+,,," ABDH, BDHP, CFLX, DHPF, __",,,,,,5,3,EKNT,TNEK,EJTN,JNTE,GLFR
+,,," KJAM, GGWJ, __, YAOD, UXKA",,,,,,5,4,CDUI,DFTC,DCTF,CDSG,DEVG
+,,," TCFK, RADI, OXAF, JSVA, __",,,,,,5,4,DMPU,DMOT,CMOT,CLOT,BNKR
+,,," FTJMP, GRMIU, EUINO, __, DVHON, IPOGW",,,,,,5,2,BYDTL,HQNHV,YNHAV,HQDTL,GNSPR
+,,," ATNHG, DKCMB, CVPJI, GNFPE, EXRLK, JQISH, GZTNM, __",,,,,,5,1,MTLVK,HSKUJ,RIJTU,PQMTH,QHMRT
+,,," ACEGI, BDFHJ, KMOQS, __, UWYAC, VXZBD",,,,,,5,3,TUVWX,LPRTV,LNPRT,PQRTV,LMPSV
+,,," 2W3, 1S9, 1Q7, __, 1K1",,,,,,5,2,1P6,1M3,1R8,1S9,2W3
+,,, MAD : FGJ : : RUN,,,,,,4,1,ORK,OSQ,PRJ,UXQ
+,,, ACE: BDF: FHJ?,,,,,,4,1,GIK,GHK,DFH,FHL
+,,, BIGE: JQOM: RYWV:?,,,,,,4,3,AGFD,ZFDB,ZGEC,ZYVX
+,,, ASTN: ZTSO:: MSUB:?,,,,,,4,4,CRRC,LTTA,NTVC,LTTC
+,,, FJUL: BOQQ:: LHRX:?,,,,,,4,4,BKPR,MNCC,HRYY,HMNC
+,,, EJOT: VQLG : BGLQ: ?,,,,,,4,3,AEIM,AFKP,YTOJ,ZUPK
+,,, EGIK: FILO:: FHJL:?,,,,,,4,1,GJMP,GMJP,JGMP,JGPM
+,,, PALE: LEAP:: POSH:?,,,,,,4,3,HSOP,POHS,SHOP,NONE
+,,, JLNP : OMKI:: SUWY:?,,,,,,4,4,FGHI,MLKJ,PLHD,XVTR
+,,, NOPQ : MLKJ: HIJK:?,,,,,,4,4,DEFG,EFGH,FEDC,GFED
+,,, MUMBAI: LTLARH : : DELHI : ?,,,,,,4,3,CDKGG,IHLED,CDKGH,BCKGH
+,,, ? : ALKO : : WOULD : :OPEN : ?,,,,,,4,4,BLOCK,BARGEC,CONES,DONOR
+,,, EIGHTY: GIEYTH:: OUTPUT:?,,,,,,4,1,TUOTUP,TUOUTP,UTOPTU,UOTUPT
+,,, CORDEM : ZROGBQ: : ? : PXIVRO,,,,,,4,2,MWMUL,SULSUL,MUNMUM,SRSPQL
+,,, BUCKET : ACTVBDJLKDFSU : : BONUS: ?,,,,,,4,3,ACMNMOTURT,SUNOB,ACNPMOTVRT,ACMNMOTURT

@@ -1,0 +1,158 @@
+subject_id,topic_id,question_type,question,marks,time_to_spend,difficulty_level,hint,explanation,total_answers,correct_answer,answer1,answer2,answer3,answer4,answer5
+,,, The area of a triangle is with base 4m and height 5m?,,,,,,4,2,20 sq m,10 sq m,5 sq m,3 sq m
+,,," The area of a triangle will be when a = 1m, b = 2m, c = 3m, a, b, c being lengths of respective sides.",,,,,,4,1,0 sq m,3 sq m,2 sq m,6 sq m
+,,, The length of each side of an equilateral triangle having an area of 4√3 cm2 is?,,,,,,4,4,4/3 cm,3/4 cm,3 cm,4 cm
+,,, The altitude of an equilateral triangle of side 2√3 cm is?,,,,,,4,4,3/2 cm,1/2 cm,3/4 cm,3 cm
+,,, The base of a right triangle is 8 and hypotenuse is 10. Its area is?,,,,,,4,4,12,80,59,24
+,,," The sides of a triangle are in the ratio 5: 12: 13 and its perimeter is 300 m, its area is?",,,,,,4,1,3000 sq m,3127 sq m,3225 sq m,3750 sq m
+,,, What is the area of square field whose side of length 15 m?,,,,,,4,1,225 sq m,220 sq m,100 sq m,30 sq m
+,,, What is the area of a square field whose diagonal of length 20 m?,,,,,,4,3,300 sq m,250 sq m,200 sq m,400 sq m
+,,, What is the perimeter of a square field whose diagonal is 8√2?,,,,,,4,2,64 m,32 m,30 m,16 m
+,,, The ratio of the area of a square to that of the square drawn on its diagonal is?,,,,,,4,4,2:5,3:4,3:5,1:2
+,,, The perimeter of one square is 48 cm and that of another is 20 cm. Find the perimeter and the diagonal of a square which is equal in area to these twocombined?,,,,,,4,2,15√2 cm,13√2 cm,16√2 cm,17√2 cm
+,,," If the perimeter of a rectangular garden is 600 m, its length when its breadth is 100 m is?",,,,,,4,3,650 m,600 m,200 m,300 m
+,,, A rectangular field has area equal to 150 sq m and perimeter 50 m. Its length and breadth must be?,,,,,,4,4,"12 m, 10 m","13 m, 12 m","14 m, 11 m","15 m, 10 m"
+,,, One side of a rectangular field is 4 m and its length along diagonal is 5 m. What is the area of the field?,,,,,,4,1,12 sq m,4√14 sq m,20 sq m,15 sq m
+,,, A man walked 20 m to cross a rectangular field diagonally. If the length of the field is 16 cm. Find the breadth of the field is?,,,,,,4,2,11 m,12 m,13 m,14 m
+,,," Sides of a rectangular park are in the ratio 3: 2 and its area is 3750 sq m, the cost of fencing it at 50 ps per meter is?",,,,,,4,3,Rs.150,Rs.100,Rs.125,Rs.175
+,,," How many paying stones, each measuring 2 1/2 m * 2 m are required to pave a rectangular court yard 30 m long and 16 1/2 m board?",,,,,,4,1,99,90,95,100
+,,, Find the number of square tiles to cover the floor of a room measuring 4 m * 9 m leaving 0.25 m space around the room. A side of square tile is given to be 25cms?,,,,,,4,2,425,476,450,350
+,,," A rectangular farm has to be fenced one long side, one short side and the diagonal. If the cost of fencing is Rs.10 per meter. The area of farm is 1200 m2 and the short side is 30 m long. How much would the job cost?",,,,,,4,2,Rs.700,Rs.1200,Rs.1400,Rs.1500
+,,, The length of the rectangular field is double its width. Inside the field there is square shaped pond 8m long. If the area of the pond is 1/8 of the area of the field. What is the length of the field?,,,,,,4,2,31 m,32 m,16 m,20 m
+,,," The area of a square field 3136 sq m, if the length of cost of drawing barbed wire 3 m around the field at the rate of Rs.1.50 per meter. Two gates of 1 m width each are to be left for entrance. What is the total cost?",,,,,,4,3,Rs.1014,Rs.1140,Rs.999,Rs.1085
+,,," The length of rectangle is thrice its breadth and its perimeter is 96 m, find the area of the rectangle?",,,,,,4,1,432 sq m,356 sq m,452 sq m,428 sq m
+,,," A rectangular grass field is 75 m * 55 m, it has a path of 2.5 m wide all round it on the outside. Find the area of the path and the cost of constructing it atRs.2 per sq m?",,,,,,4,1,"675, Rs.1350","575, Rs.1350","1350, Rs.675",None
+,,," A rectangular lawn of dimensions 80 m * 60 m has two roads each 10 m wide running in the middle of the lawn, one parallel to the length and the other parallel to the breadth. What is the cost of traveling the two roads at Rs.3 per sq m?",,,,,,4,4,Rs.3600,Rs.3700,Rs.3800,Rs.3900
+,,, The length of a rectangle is increased by 25% and its breadth is decreased by 20%. What is the effect on its area?,,,,,,4,1,Remains same,5% decrease,5% increase,10% increase
+,,, The length and breadth of a rectangle is increased by 10% and 25% respectively. What is the increase in the area?,,,,,,4,2,27.5%,37.5%,47.5%,57.5%
+,,, The side of a rhombus is 26 m and length of one of its diagonals is 20 m. The area of the rhombus is?,,,,,,4,4,529 sq m,240 sq m,260 sq m,480 sq m
+,,, The diagonals of a rhombus are 15 cm and 20 cm. Find its area?,,,,,,4,3,120 sq m,300 sq m,150 sq m,480 sq m
+,,, The perimeter of a rhombus is 68 cm and one of its diagonals is 16 cm. Find its area?,,,,,,4,2,260 cm2,240 cm2,280 cm2,220 cm2
+,,, The area of a parallelogram is 128sq m and its altitude is twice the corresponding base. Then the length of the base is?,,,,,,4,1,8 m,10 m,6 m,12 m
+,,, The side of a square is increased by 25% then how much % does its area increases?,,,,,,4,2,52.65,56.25,50.75,42.75
+,,," The cross-section of a cannel is a trapezium in shape. If the cannel is 10 m wide at the top and 6 m wide at the bottom and the area of cross-section is 640 sq m, the depth of cannel is?",,,,,,4,4,20 m,60 m,40 m,80 m
+,,, The radius of a circle is increased by 1%. Find how much % does its area increases?,,,,,,4,4,1.01%,5.01%,3.01%,2.01%
+,,, Find the area of the quadrilateral of one of its diagonals is 20 cm and its off sets 9 cm and 6 cm?,,,,,,4,2,120 sq m,150 sq m,110 sq m,300 sq m
+,,, Find the area of circle whose radius is 7m?,,,,,,4,2,124 sq m,154 sq m,145 sq m,167 sq m
+,,, If the area of circle is 616 sq cm then its circumference?,,,,,,4,2,78 m,88 m,75 m,70 m
+,,, Find the cost of fencing around a circular field of diameter 28 m at the rate of Rs.1.50 a meter?,,,,,,4,2,Rs.150,Rs.132,Rs.100,Rs.125
+,,," The radius of a circular wheel is 1.75 m, how many revolutions will it make in traveling 1 km?",,,,,,4,1,1000,2000,3000,4000
+,,, If the wheel is 14 cm then the number of revolutions to cover a distance of 1056 cm is?,,,,,,4,4,15,10,14,12
+,,," The ratio of the radius of two circles is 1: 3, and then the ratio of their areas is?",,,,,,4,3,1:3,1:6,1:9,1:5
+,,, The radius of the two circular fields is in the ratio 3: 5 the area of the first field is what percent less than the area of the second?,,,,,,4,4,50%,60%,40%,64%
+,,," A rope of which a calf is tied is increased from 12 m to 23 m, how much additional grassy ground shall it graze?",,,,,,4,3,1120 m2,1250 m2,1210 m2,1200 m2
+,,, What is the ratio between perimeters of two squares one having 3 times the diagonal then the other?,,,,,,4,4,4:8,1:4,6:2,3:1
+,,, The radius of a semi circle is 6.3 cm then its perimeter is?,,,,,,4,2,35.4 cm,32.4 cm,32 cm,30 cm
+,,, The perimeter of a semi circle is 144 cm then the radius is?,,,,,,4,2,25 cm,28 cm,30 cm,35 cm
+,,, A circular path of 13 m radius has marginal walk 2 m wide all round it. Find the cost of leveling the walk at 25p per m2?,,,,,,4,3,Rs.45,Rs.78,Rs.44,Rs.40
+,,, A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper?,,,,,,4,1,(400 - 100π) cm2,(400 - 2π) cm2,(400 – 200π) cm2,200π cm2
+,,, The area of a sector of a circle of radius 5 cm formed by an arc of length 3.5 cm is?,,,,,,4,3,0.35 cm2,17.5 cm2,8.75 cm2,55 cm2
+,,, The area of sector of a circle whose radius is 12 metro and whose angle at the center is 42° is?,,,,,,4,3,26.4 m2,39.6 m2,52.8 m2,79.2 m2
+,,, Which one of the following has a greater perimeter than the rest?,,,,,,4,3,A square with an area of 36 sq.cm,An Equilateral Triangle with a side of 9 cm,A rectangle with 10 cm as length and 40 sq.cm as area,A circle with a radius of 4 cm
+,,," A big rectangular plot of area 4320 Sq.m is divided into 3 square shaped smaller plots by fencing parallel to the smaller side of the plot. However, some area of land was still left as a square plot could not be formed. So 3 more square shaped plots were formed by fencing parallel to the longer side of the original plot. Such that no area of the plot was left a surplus. What are the dimensions of the original plot?",,,,,,4,3,160m × 27m,240m × 18m,120m × 36m,135m × 32m
+,,, A circle of the 1m radius is drawn inside a square as shown in the figure given below. What is the area (in Sq.m) of the shaded portion? ,,,,,,4,4,.,.,.,.
+,,," In a Circle of Radius 5 cm if AB and AC are two equal chords of length 6cm each, then the length of chord BC is",,,,,,4,4,24/5 cm,12/5 cm,7/5 cm,None of these
+,,, In the given figure all line segments of the shaded portion are of the same length and at right angles to each other. The same can be cut out from a board of side 10 cm. What is the area of the Shaded portion? ,,,,,,4,2,36 Sq.cm,48 Sq.cm,52  Sq.cm,64 Sq.cm
+,,, If the length of diagonal AC of a square ABCD is 5.2 cm then area of the square ABCD is:,,,,,,4,2,15.12 sq.cm,13.52 sq.cm,12.62 sq.cm,10 sq.cm
+,,, The Length of a plot is four times is breadth. A playground measuring 1200 square meters occupies a third of the total area of the plot. What is the length of the plot in meters?,,,,,,4,4,20,30,60,None of these
+,,, The length and breadth of play ground are 36 m and 21 m respectively. Flag staffs are required to be fixed on all along the boundary at a distance of 3 m part. The number of flag staffs will be:,,,,,,4,2,37,38,39,40
+,,, The length and breadth of a rectangular piece of land are in the ratio of 5:3. The owner spent Rs 3000 for surroundings it from are the sides at Rs 7.50 per meter. The difference between is length and breadth is:,,,,,,4,1,50m,100m,150m,200m
+,,, The ratio between the length and breadth of a rectangular field is 5:4. If the breadth is 20 meters less than the length. The perimeter of the field is:,,,,,,4,3,260m,280m,360m,None of these
+,,, If the side of a square is increased by 25 % then how much percent does it’s area get increased:,,,,,,4,4,125,156.25,50,56.25
+,,, The length of a hall is (4/3) times its breadth. If the area of the hall be 300 square meters the difference between the length and breadth is:,,,,,,4,4,15m,4m,3m,None of these
+,,, The area of a rectangle is thrice that of a square. The length of the rectangle is 40 cm and the breadth of the rectangle is (3/2) times of the square. The side of the square in cm is:,,,,,,4,2,15,20,30,60
+,,, The length of a rectangle is increased by 60 %. By what percent would the width have to be decreased to maintain the same area?,,,,,,4,1,37 ½ %,60 %,75 %,120%
+,,, If the ratio of the areas of two squares is 9:1 ratio of their perimeters is:,,,,,,4,2,9:1,3:1,3:4,1:3
+,,, A hall 20 m long and 15 m broad is surrounded by a verandah of uniform width of 2.5 m. The cast of flooring the verandah at the rate of Rs 3.50 per sq. Meter is:,,,,,,4,3,Rs.500,Rs. 600,Rs. 700,Rs. 800
+,,, If the diagonal of a square is doubled. How does the area of the square change?,,,,,,4,1,Becomes fourfold,Becomes threefold,Becomes twofold,none of the above
+,,, The perimeter of an isosceles triangle is equal to 14 cm and the lateral side is to the base in the ratio 5:4. The area of the triangle is:,,,,,,4,4,.,.,.,.
+,,, Area of a square with side x is equal to the area of a triangle with base x. The altitude of the triangle is:,,,,,,4,3,x/2,x,2x,4x
+,,, If the circumference of a circle is 352 meters then its area in Sq.m is:,,,,,,4,1,9856,8956,6589,5986
+,,, If the radius of a circle be reduced by 50% its area is reduced by:,,,,,,4,3,25 %,50%,75%,100%
+,,, If the diameter of a circle is increased by 100 % its area is increased by:,,,,,,4,3,100%,200%,300%,400%
+,,, A circular wire of radius 42 cm is cut and bent in the form of a rectangle whose sides are in the ration of 6:5 The smaller side if the rectangle is:,,,,,,4,2,30 cm,60 cm,72 cm,132 cm
+,,, The number of rounds that a wheel of diameter 7/11 m will make in going 4 km is:,,,,,,4,4,1000,1500,1700,2000
+,,, A circle and square have same area. The ratio of the side of the square and the radius of the circle is:,,,,,,4,2,.,.,.,.
+,,, The diameter of a circle is 105 cm less than the circumference what is the diameter of the circle?,,,,,,4,4,44 cm,46 cm,48 cm,49 cm
+,,, The circumferences of two concentric circles are 176 m and 132 cm respectively. What is the difference between their radii?,,,,,,4,2,5 m,7 m,8 m,44 m
+,,, The length of a rope by which a cow must be tethered in order that she may be able to graze an area of 9856 sq.m is:,,,,,,4,1,56m,64m,88m,168m
+,,, In a rhombus whose area is 144 sq.cm on of its diagonals is twice as long as the other. The lengths of its diagonals are:,,,,,,4,2,"24 cm,48cm","12cm,24cm","6√2cm,12√2cm","6cm,12cm"
+,,, If a square and a rhombus stand on the same base then the ratio of the areas of the squares and the rhombus is:,,,,,,4,2,greater than 1,equal to 1,equal to 1/2,equal to ¼
+,,, A parallelogram has sides 60 m and 40 m and one of its diagonals is 80 m long then its area is:,,,,,,4,3,480 sq.m,320 sq.m,600√15 sq.m,450√15
+,,, A rectangular carpet has an area of 120 sq.m and a perimeter of 46 m. The length of its diagonal is:,,,,,,4,3,15 m,16 m,17 m,20 m
+,,, A rectangular carpet has an area of 60 sq.m its diagonal and longer side together equal 5 times the shorter side. The length of the carpet is:,,,,,,4,2,5m,12m,13m,14.5m
+,,," The length of a rectangular plot is 4 ½ times that of its breadth. IF the area of the plot is 200 square meters, then what is it’s length?",,,,,,5,5,25m,62m,44m,59m,None of these
+,,, The Ratio of the length and breadth of a plot is 3:2 .If the breadth is 40m less than the what is the parameter of the plot?,,,,,,4,3,480m,320m,400m,450m
+,,, A rectangular carpet has an area of 120 square meters and a parameter of 46m. The length of it’s diagonals is,,,,,,4,4,11m,13m,15m,17m
+,,, A room is 12 ¼ m long and 7w wide. The maximum length of a square tile to fill the floor of the room with whole number of it’s tiles should be,,,,,,4,2,200cm,175cm,125cm,150cm
+,,, A rectangular courtyard 3.78min long and 5.25m broad is to be paved exactly with square tiles all of the same size. The minimum number of such tiles is,,,,,,4,3,430,440,450,460
+,,, The perimeter of a floor of a room is 18m.What is the area of four walls of the room if it; a height is 3m?,,,,,,4,3,21 Sq.m,42 Sq.m,54 Sq.m,108 Sq.m
+,,, A rectangular measure 8cm on length and it’s diagonals measures 10cm what is the perimeter of the rectangular?,,,,,,4,3,36cm,38cm,28cm,18cm
+,,, How many meters of carpet 63cm will be required to be a floor of a room 14m by 9cm?,,,,,,4,1,200m,210m,220m,185m
+,,, A path of uniform width turns the inside of a rectangular field 38m long and 32m wide. IF the path occupies 600 m2 than the width of the path is,,,,,,4,2,3m,5m,8.75m,10m
+,,, Total area of the 64 small squares of aches board is 400cm2. There is 3cm wide border around the chess board. What is the length of each side of the chess board?,,,,,,4,4,17cm,20cm,23cm,26cm
+,,, The length of a rectangular increased by 10% and it;s breadth is decreased by 10 %. Then the area of the new rectangle is,,,,,,4,3,Neither increased nor decreased,Increased by 1%,Decreased by 1%,Decreased by 10%
+,,, If the diagonal of a rectangle is 17cm long and perimeter  is 46 cm the area of the rectangle is,,,,,,4,3,100cm2,110cm2,120cm2,150cm2
+,,, The Total cost of flooring a room at Rs.8.50 per square meter is Rs.510. If the length of the room is 8km it’s breadth is,,,,,,4,1,7.5m,8.5m,10.5m,12.5m
+,,, A rectangular field has dimensions 25m by 15m. Two mutually perpendicular passage of 2m width have been left in it’s central part and grass has been grown in rest of the field. The area under the grass is:,,,,,,4,2,295m2,299m2,300m2,375m2
+,,, The perimeter of a rectangle is 60m. If it’s length is twice its breadth then its area is,,,,,,4,3,160m2,180m2,200m2,220m2
+,,, The area of a rectangle is 12 sq.metres and it’s length is 3 times that of it’s breadth. What is the perimeter of the rectangle,,,,,,4,4,14m,18m,4m,None of these
+,,, The largest size of bamboo that can be placed in a square of area 100 sq.meters is:,,,,,,4,2,10m,14.14m,20m,25m
+,,, The diagonal of a square is 4√2cm. The diagonal is another square whose area is double that of the first square is,,,,,,4,1,8cm,8√2cm,16cm,4√2cm
+,,, The perimeter of a rectangle and square are 160m each. The area of the rectangle is less than that it’s square by 100cm meters. The less than that of the square by 100 sq.meters. the length of rectangle is,,,,,,4,3,30m,40m,50m,60m
+,,, The length of a rectangular plot is twice its breadth. If the area of the rectangular plot is 6075 sq.meters .what is its length?,,,,,,4,4,45m,75m,130m,None of these
+,,, The length of a rectangular plot is increased by 25%. To keep it’s area uncharged the width of the plot should be,,,,,,4,4,Kept unchanged,Increased by 25%,Increased by 20%,Reduced by 20%
+,,, If the length and width of a rectangular grand are each increased by 20% then what would be the percent increase in the area of the garden?,,,,,,4,4,20%,24%,36%,44%
+,,, If the length of a rectangle is increased by 20% and it’s breadth is decreased by 20% then it area,,,,,,4,2,Increased by 4%,decreased by 4%,Decreased by 1%,Remains unchanged
+,,, If each side of a square is increased by 50% the ratio of the area of the resulting square to the area of the given square is ,,,,,,4,2,5:4,9:4,4:5,4:9
+,,, A circle and a rectangle have the same perimeter. The sides of the rectangle are 18cm and 26cm.What is the area of the circle?,,,,,,4,3,88cm2,154cm2,616cm2,1250cm2
+,,, If an area enclosed by a circle or a square or an equal triangle is the same then the maximum perimeter is possessed by:,,,,,,4,4,Circle,Square,Equilateral Triangle,Both Triangle and Square
+,,, The sides of a triangle are in the ratio ½: 1/3: ¼. If the perimeter is 52cm then the length of the smallest side is,,,,,,4,4,9cm,10cm,11cm,12cm
+,,, If the height of a triangle is decreased by 40% and its base is increased by 40% what will be the effect on its area?,,,,,,4,3,No change,8%decrease,16% Decrease,16%increases
+,,," The area of a right angled triangle is 20Sq.cm and one of the sides containing the right angle is 4cm. The altitude on the hypotenuse i.e...,",,,,,,4,4,.,.,.,.
+,,, The areas of two similar triangles are 12 cm2 and 48SQ. cm .If the height of the smaller one is 2.1cm than the corresponding height of the bigger one is,,,,,,4,2,0.525cm,4.2cm,80%,60%
+,,, A typist uses a paper 30cm x 15cm.He leaves a margin at 2.5cm at the top and the bottom and 12.5cm on either side. What percentage of paper area is approximately available for typing,,,,,,4,4,65%,70%,80%,60%
+,,, The area of largest triangle that can be inscribed in a semicircle of radius R cm is,,,,,,4,4,2R cm2,R2 cm2,1/2 R2 cm 2,2 R2 cm 2
+,,, A circle is inscribed in square an equilateral triangle at side 4√3 is inscribed in the circle. The length of the diagonal of a square is,,,,,,4,2,.,8cm,.,16cm
+,,, The area of a rhombus in 2016 Sq.cm and its side is 65cm. The length of its diagonals are,,,,,,4,2,"125cm, 35cm","126cm,32cm","132cm,26cm","135cm,25cm"
+,,, If the side of a square is increased by 25% then it’s area is increased by ,,,,,,4,4,25%,40.5%,55%,56.25%
+,,, The area of a square field is 6050Sq.m.The length of it diagonal is ,,,,,,4,1,110m,112m,120cm,135m
+,,, The area of a circle is 24.64Sq.m. the circumference of circle is ,,,,,,4,3,14.64cm,16.36m,17.60m,18.40m
+,,, The difference between the radi of the smaller circle and the bigger circle is 7cm and the difference between the area of two circles is 1078Sq.cm Radius of the smaller circle is :,,,,,,4,4,17.5cm,21cm,28cm,None of these
+,,, The area of a circle is increased by 22Sq.cm when it’s radius is increased by 1cm. The original radius of the circle is,,,,,,4,3,6cm,3.2 cm,3 cm,3.5 cm
+,,," If the radius of a circle is increased to 3 times, then how many times will it’s circumference be increased?",,,,,,4,1,2times,3times,1/3 times,9times
+,,, The area of the largest circle that can be drawn inside a rectangle with sides 18cm and 14cm is,,,,,,4,2,49 Sq.cm,154 Sq.cm,378Sq.cm,1078 Sq.cm
+,,, The perimeter of a circle and a square field are equal. What is the diameter of the circle field if the area of the square field is 484 sq.m?,,,,,,4,3,14m,21m,28m,None of these
+,,," The perimeter of circle field and a square field are equal. If the area of these square field is 12100m2, the area of a circular field will be?",,,,,,4,2,15500Sq.m,15400Sq.m,15200Sq.m,15300Sq.m
+,,, The wire bent in the form of a square enclose an area of 484 Sq.cm. If the same wire is bent so as to from a circle than the area enclosed will be?,,,,,,4,3,484Sq.cm,538 2/7 Sq.cm,616 Sq.cm,644 Sq.cm
+,,," From a point within an equilateral triangle perpendicular drawn to the three sides are 6cm, 7cm and 8cm respectively. The length of each sides of the triangle is",,,,,,4,3,7cm,10.5cm,.,.
+,,, The area of a triangle is P Sq. Cm and it’s base is x cm what is the height of the triangle?,,,,,,4,1,.,.,.,.
+,,, A triangle has sides of lengths 3cm 4cm and 5cm.What is the area of the circle inscribed in the triangle?,,,,,,4,3,.,.,.,.
+,,, Each side of an equilateral triangle is 42 cm. What is the area of the circle inscribed in it,,,,,,4,3,.,231 Sq.cm,462 Sq.cm,924Sq.cm
+,,, A wheel makes 1000 revolutions is covering a distance of 88 km. the diameter of the wheel is,,,,,,4,3,14m,24m,28m,40m
+,,, The radius of a circular wheel is 17.5m. How many revolutions will it make in travelling 11km?,,,,,,4,3,10,100,1000,"10,000"
+,,, What is the diameter of a wheel that makes 113 revolution to go 2km 26 decametre?,,,,,,4,2,4  4/13 m,6   4/11m,12  4/11m,12  8/11m
+,,, The length of the longest pole that can be kept in a room 5m long 4m broad and 3m height in?,,,,,,4,1,.,.,.,None of these
+,,, The area of the base of a rectangular tank is 6500Sq.cm and the volume of water containing in it is 2-6 cubic meters. The depth of the water in the tank is,,,,,,4,4,2.5m,3m,5.5m,4m
+,,, A covered wooden box has the inner measure as 115cm  75cm and 35cm and the thickness of wood is 2.5cm. The volume of the wood is,,,,,,4,3,81000cu.cm,81775cu.cm,82125cu.cm,None of these
+,,, A rectangular water tank is open at the top. Its capacity is 24Cu.m.It’s length and breadth are 4m and 3m respectively. Ignoring the thickness of the material used for building the tank the total cost of painting the inner and outer surface of the tank at Rs. 10 per Sq.m is,,,,,,4,4,Rs.400,Rs.500,Rs.600,Rs.800
+,,, The water in a rectangular reservoir having a base 80m by 60m is 6.5m deep.In what time can the water be amplified by a pipe of which the cross section is a square of a side 20cm if the water runs through the pipe at the rate of 15km per hour?,,,,,,4,3,26hours,42hours,52hours,65hours
+,,, A rectangular tank is 225 m by 162m at the base with what speed must water flow into it through an aperture 60cm by 45cm that the level may be raised 20cm in 5 hours?,,,,,,4,3,5000 m/hr,5200m/hr,5400 m/hr,5600 m/hr
+,,, A cuboidal water tank contains 216 liters is water. Its depth is 1/3 of its length and breadth is ½ of 1/3 of the difference between length and depth. The length of the tank?,,,,,,4,3,2dm,6dm,18dm,72dm
+,,, A swimming bath is 24 m long and 15 m broad. When a number of men drive into the bath. The height of water rises by 1cm. If the average volume of water displaced by each man be 0.1m3 how many mean are there in the both?,,,,,,4,2,32,36,42,46
+,,, What part of a ditch 48m long 16.5 broad and 4m deep can be filled by the earth got by digging a cylindrical tunnel of diameter 4m and length 56m?,,,,,,4,2,1/9,2/9,7/9,8/9
+,,," A tank is 7m long and 4m wide at what speed should water run through pipes 5cm broad and 4cm deep so that in 6 hours and 18 minutes, the water level in the tank rises by 4.5cm?",,,,,,4,2,12km/hr,10km/hr,14km/hr,None of these
+,,, An agricultural field is in the form of a rectangle of length 20m and width 14m. A pit 6m long 3m wide and 2.5m deep is dug in a corner of the field and earth taken out of the pit is spread uniformly over. The remaining area of the field. The level of the field has raised by?,,,,,,4,3,15.16cm,16.17cm,17.18cm,18.19m
+,,, A rectangular tank measuring (5m x 4.5m x 2.1m) is dug in the center of the field measuring 13.5m x 2.5m. The earth dug out is speed every over the remaining portion of the field raised?,,,,,,4,3,4m,4.1cm,4.2cm,4.3m
+,,, A plot of land in the form of a rectangle has dimensions 240m x 180m. A draint 10m wide is dug all around it on the outside and the earth dug out is evenly spread over the plot increasing its surface level by 25cm. The depth of the drailent of ,,,,,,4,3,1.233m,1.225m,1.227m,1.229m
+,,," If areas of three adjacent faces of cuboid are x,y,z respectively, then the volume of the cuboid is",,,,,,4,3,xyz,2xyz,.,.
+,,, A hall is a 15m long and 12m board. If the sum of the areas of the floor and the ceiling is equal to the areas of the 4 walls the volume of the hall is:,,,,,,4,2,720 Cu.m,1200 Cu.m,361 Sq.cm,None of these
+,,, The sum of the length breadth and depth of cuboid is 19cm and it’s diagonal is 5√5 cm it’s surface area is?,,,,,,4,2,125 Sq.cm,236 Sq.cm,361 Sq.cm,None of these
+,,, The product of the area of three adjacent faces of a rectangular box is equal to,,,,,,4,3,the volume of the box,Twice the volume of the box,the square of the volume of the box,Cube root of the volume of the box
+,,, The surface area of a (10cm x 4cm x3cm) brick is,,,,,,4,3,84 Sq.cm,124 Sq.cm,164 Sq.cm,180 Sq.cm
+,,, Water flows a tank 200 x 150m through a rectangular pipe 1.5 x 1.25m at the rate at 20kmph. In what time will be water rises by 2 meters?,,,,,,4,4,76 min,80min,90min,96min
+,,," The difference between the length and breadth of a rectangle is 23 m. If its perimeter is 206 m, then its area is:",,,,,,4,4,1520 m2,2420 m2,2480 m2,2520 m2
+,,," The length of a rectangle is halved, while its breadth is tripled. What is the percentage change in area?",,,,,,4,2,25% increase,50% increase,50% decrease,75% decrease
+,,," The length of a rectangular plot is 20 metres more than its breadth. If the cost of fencing the plot @ 26.50 per metre is Rs. 5300, what is the length of the plot in metres?",,,,,,5,5,40,50,120,Data inadequate,None of These
+,,," A rectangular field is to be fenced on three sides leaving a side of 20 feet uncovered. If the area of the field is 680 sq. feet, how many feet of fencing will be required?",,,,,,4,4,34,40,68,88
+,,, Jay’s room has a floor of 8m by 4m. He decides to tile the floor with tiles of 25cm x 20 cm. How many tiles will he need?,,,,,,4,2,320 tiles,640 tiles,160 tiles,6.4 tiles
